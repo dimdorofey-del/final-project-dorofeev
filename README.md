@@ -2,7 +2,7 @@
 
 В репозитории находится 6 файлов:
 1) Jupiter Notebook - анализ данных
-2) SENSORS.csv - параметры датчиков на производстве
+2) SENSORS.csv - параметры датчиков на производстве - доступен по ссылке https://drive.google.com/file/d/1pEzfc1nzkXa8PtdrNALikp-6GBT51Qn-/view?usp=sharing
 3) SENSORS_INFO.csv - информация о датчиках
 4) RESULTS.csv - содержание
 5) Презентация для защиты
